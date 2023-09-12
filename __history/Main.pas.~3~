@@ -1,0 +1,39 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniGUIBaseClasses, uniTimer,
+  URGLayoutUnigui, uniPanel, uniPageControl, uniGUIFrame, UFrameExemplo;
+
+type
+  TMainForm = class(TUniForm)
+    UniPageControl1: TUniPageControl;
+    UniTabSheet1: TUniTabSheet;
+    FrameExemplo1: TFrameExemplo;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+initialization
+  RegisterAppFormClass(TMainForm);
+
+end.

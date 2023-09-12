@@ -1,0 +1,85 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 604
+  ClientWidth = 1139
+  Caption = 'MainForm'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniPageControl1: TUniPageControl
+    Left = 0
+    Top = 0
+    Width = 1139
+    Height = 604
+    Hint = ''
+    ActivePage = UniTabSheet2
+    Align = alClient
+    TabOrder = 0
+    ExplicitWidth = 665
+    ExplicitHeight = 556
+    object UniTabSheet1: TUniTabSheet
+      Hint = ''
+      TabVisible = False
+      Caption = 'Main'
+      ExplicitWidth = 657
+      ExplicitHeight = 528
+      inline FrameExemplo1: TFrameExemplo
+        Left = 0
+        Top = 0
+        Width = 1131
+        Height = 576
+        Align = alClient
+        Anchors = [akLeft, akTop, akRight, akBottom]
+        TabOrder = 0
+        Background.Picture.Data = {00}
+        ExplicitLeft = 25
+        ExplicitTop = 22
+        inherited PanelFundoPagina: TUniPanel
+          Width = 1131
+          Height = 576
+          inherited UniScrollBox1: TUniScrollBox
+            Width = 1131
+            Height = 576
+            ScrollHeight = 529
+            ScrollWidth = 888
+          end
+        end
+        inherited RGLayoutUnigui1: TRGLayoutUnigui
+          Frame = FrameExemplo1
+        end
+      end
+    end
+    object UniTabSheet2: TUniTabSheet
+      Hint = ''
+      Caption = 'Main 2'
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 1139
+      ExplicitHeight = 604
+      object UniContainerPanel1: TUniContainerPanel
+        Left = 0
+        Top = 0
+        Width = 1131
+        Height = 128
+        Hint = ''
+        ParentColor = False
+        Align = alTop
+        TabOrder = 0
+        ExplicitLeft = 456
+        ExplicitTop = 264
+        ExplicitWidth = 256
+        object UniButton1: TUniButton
+          Left = 28
+          Top = 16
+          Width = 75
+          Height = 25
+          Hint = ''
+          Caption = 'Formulario Show Modal'
+          TabOrder = 1
+        end
+      end
+    end
+  end
+end

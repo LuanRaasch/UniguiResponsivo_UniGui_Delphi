@@ -1,0 +1,72 @@
+Project1.exe: 0000081C: 18:51:44 []:>--------------------------------------------------------------<
+Project1.exe: 0000081C: 18:51:44 [TUniServerModule]:Server First Init.
+Project1.exe: 0000081C: 18:51:44 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 0000081C: 18:51:44 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000081C: 18:51:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000081C: 18:51:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00003720: 18:51:56 [HandleFileRequest[127.0.0.1]]:File not found: D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\cache\project1_exe\v5P5KRfA1x10D4C688D\favicon.ico
+Project1.exe: 00002B3C: 19:28:17 []:>--------------------------------------------------------------<
+Project1.exe: 00002B3C: 19:28:17 [TUniServerModule]:Server First Init.
+Project1.exe: 00002B3C: 19:28:17 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 00002B3C: 19:28:17 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00002B3C: 19:28:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00002B3C: 19:28:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 000018CC: 20:17:44 []:>--------------------------------------------------------------<
+Project1.exe: 000018CC: 20:17:44 [TUniServerModule]:Server First Init.
+Project1.exe: 000018CC: 20:17:44 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 000018CC: 20:17:44 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000018CC: 20:17:44 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Project1.exe: 000018CC: 20:17:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000018CC: 20:17:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000165C: 20:25:19 []:>--------------------------------------------------------------<
+Project1.exe: 0000165C: 20:25:19 [TUniServerModule]:Server First Init.
+Project1.exe: 0000165C: 20:25:19 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 0000165C: 20:25:19 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000165C: 20:25:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000165C: 20:25:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00000D78: 20:25:25 [HandleFileRequest[127.0.0.1]]:File not found: D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\cache\project1_exe\bXANCEmKv910D4C81E9\favicon.ico
+Project1.exe: 0000165C: 20:25:40 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 0000165C: 20:25:40 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 0000165C: 20:25:44 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 0000165C: 20:25:44 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 0000165C: 20:25:44 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 0000165C: 20:25:44 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 0000165C: 20:25:44 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 0000165C: 20:25:44 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 0000165C: 20:25:44 [TUniWebSocketStack]:Terminating...
+Project1.exe: 0000165C: 20:25:44 [TUniGUIMessageQ]:Terminated.
+Project1.exe: 0000165C: 20:25:44 [TUniWebSocketStack]:Terminated.
+Project1.exe: 0000165C: 20:25:44 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 0000165C: 20:25:44 []:<-------------------------------------------------------------->
+Project1.exe: 0000165C: 20:25:44 [Terminated]:Exit Code: 0
+Project1.exe: 00003820: 20:25:48 []:>--------------------------------------------------------------<
+Project1.exe: 00003820: 20:25:48 [TUniServerModule]:Server First Init.
+Project1.exe: 00003820: 20:25:48 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 00003820: 20:25:48 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003820: 20:25:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003820: 20:25:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00001F78: 21:04:11 []:>--------------------------------------------------------------<
+Project1.exe: 00001F78: 21:04:11 [TUniServerModule]:Server First Init.
+Project1.exe: 00001F78: 21:04:11 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 00001F78: 21:04:11 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00001F78: 21:04:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00001F78: 21:04:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000303C: 21:05:07 []:>--------------------------------------------------------------<
+Project1.exe: 0000303C: 21:05:07 [TUniServerModule]:Server First Init.
+Project1.exe: 0000303C: 21:05:07 [TUniServerModule]:Start Path = D:\Unigui Responsivo\UniguiResponsivo\Win32\Debug\
+Project1.exe: 0000303C: 21:05:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000303C: 21:05:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 0000303C: 21:06:00 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 0000303C: 21:06:00 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 0000303C: 21:06:01 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 0000303C: 21:06:01 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 0000303C: 21:06:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 0000303C: 21:06:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 0000303C: 21:06:01 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 0000303C: 21:06:01 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 0000303C: 21:06:01 [TUniWebSocketStack]:Terminating...
+Project1.exe: 0000303C: 21:06:01 [TUniGUIMessageQ]:Terminated.
+Project1.exe: 0000303C: 21:06:01 [TUniWebSocketStack]:Terminated.
+Project1.exe: 0000303C: 21:06:01 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 0000303C: 21:06:01 []:<-------------------------------------------------------------->
+Project1.exe: 0000303C: 21:06:01 [Terminated]:Exit Code: 0

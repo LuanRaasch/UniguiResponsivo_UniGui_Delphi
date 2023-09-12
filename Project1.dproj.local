@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/11 18:50:58.000.077,=D:\Unigui Responsivo\UniguiResponsivo\MainModule.pas</Transaction>
+    <Transaction>2023/09/11 18:50:58.000.013,=D:\Unigui Responsivo\UniguiResponsivo\ServerModule.pas</Transaction>
+    <Transaction>2023/09/11 18:50:59.000.856,=D:\Unigui Responsivo\UniguiResponsivo\Main.pas</Transaction>
+    <Transaction>2023/09/11 19:29:44.000.717,=D:\Unigui Responsivo\UniguiResponsivo\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 19:30:23.000.145,D:\Unigui Responsivo\UniguiResponsivo\Unit1.dfm=D:\Unigui Responsivo\UniguiResponsivo\UFrameExemplo.dfm</Transaction>
+    <Transaction>2023/09/11 19:30:23.000.145,D:\Unigui Responsivo\UniguiResponsivo\Unit1.pas=D:\Unigui Responsivo\UniguiResponsivo\UFrameExemplo.pas</Transaction>
+    <Transaction>2023/09/11 20:42:04.183,=D:\Unigui Responsivo\UniguiResponsivo\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 20:42:34.465,D:\Unigui Responsivo\UniguiResponsivo\UFormExemplo.dfm=D:\Unigui Responsivo\UniguiResponsivo\Unit1.dfm</Transaction>
+    <Transaction>2023/09/11 20:42:34.465,D:\Unigui Responsivo\UniguiResponsivo\UFormExemplo.pas=D:\Unigui Responsivo\UniguiResponsivo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

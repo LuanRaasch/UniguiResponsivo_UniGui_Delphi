@@ -1,0 +1,76 @@
+unit UFrameExemplo;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIFrame, uniEdit, uniLabel, uniScrollBox,
+  uniGUIBaseClasses, uniPanel, uniTimer, URGLayoutUnigui, uniBasicGrid,
+  uniDBGrid;
+
+type
+  TFrameExemplo = class(TUniFrame)
+    RGLayoutUnigui1: TRGLayoutUnigui;
+    PanelFundoPagina: TUniPanel;
+    UniScrollBox1: TUniScrollBox;
+    UniPanel1: TUniPanel;
+    UniLabel1: TUniLabel;
+    UniEdit1: TUniEdit;
+    UniPanel2: TUniPanel;
+    UniLabel2: TUniLabel;
+    UniEdit2: TUniEdit;
+    UniPanel3: TUniPanel;
+    UniLabel3: TUniLabel;
+    UniEdit3: TUniEdit;
+    UniPanel4: TUniPanel;
+    UniLabel4: TUniLabel;
+    UniEdit4: TUniEdit;
+    UniPanel5: TUniPanel;
+    UniLabel5: TUniLabel;
+    UniEdit5: TUniEdit;
+    UniPanel6: TUniPanel;
+    UniLabel6: TUniLabel;
+    UniEdit6: TUniEdit;
+    UniPanel7: TUniPanel;
+    UniLabel7: TUniLabel;
+    UniEdit7: TUniEdit;
+    UniPanel8: TUniPanel;
+    UniLabel8: TUniLabel;
+    UniEdit8: TUniEdit;
+    UniPanel9: TUniPanel;
+    UniLabel9: TUniLabel;
+    UniEdit9: TUniEdit;
+    UniPanel10: TUniPanel;
+    UniLabel10: TUniLabel;
+    UniEdit10: TUniEdit;
+    UniPanel11: TUniPanel;
+    UniLabel11: TUniLabel;
+    UniEdit11: TUniEdit;
+    UniPanel12: TUniPanel;
+    UniLabel12: TUniLabel;
+    UniEdit12: TUniEdit;
+    UniPanel13: TUniPanel;
+    UniLabel13: TUniLabel;
+    UniEdit13: TUniEdit;
+    UniPanel15: TUniPanel;
+    UniDBGrid1: TUniDBGrid;
+    procedure UniFrameCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+implementation
+
+{$R *.dfm}
+
+
+
+procedure TFrameExemplo.UniFrameCreate(Sender: TObject);
+begin
+  RGLayoutUnigui1.Start;
+end;
+
+end.
